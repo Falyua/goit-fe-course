@@ -6,3 +6,5 @@
 Ссылка на робочую страницу модуля 4   https://falyua.github.io/goit-fe-course/html-css/module%204/index.html
 
 Ссылка на рабочую страницу модуля 5   https://falyua.github.io/goit-fe-course/html-css/module5/index.html
+
+Ссылка на рабочую страницу модуля 6   https://falyua.github.io/goit-fe-course/html-css/module6/index.html
