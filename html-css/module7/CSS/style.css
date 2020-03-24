@@ -153,6 +153,7 @@ nav {
     line-height: 65px;
     letter-spacing: -0.45px;
     font-weight: 700;
+    margin-bottom: auto
 }
 
 .services-list__item p {
