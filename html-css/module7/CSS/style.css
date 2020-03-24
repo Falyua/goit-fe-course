@@ -90,11 +90,11 @@ nav {
     color: #fed136;
 }
 
-.service {
+.services {
     padding-bottom: 122px;
 }
 
-.service-title {
+.services-title {
     text-align: center;
     font-size: 40px;
     line-height: 75px;
@@ -103,7 +103,7 @@ nav {
     text-transform: uppercase;
 }
 
-.service-title_description {
+.services-title_description {
     font-family: 'Noto Serif', serif;
     font-size: 16px;
     line-height: 19px;
@@ -114,17 +114,17 @@ nav {
     font-style: italic;
 }
 
-.service-list {
+.services-list {
     display: flex;
     justify-content: space-between;
 }
 
-.service-list__item {
+.services-list__item {
     flex-basis: 290px;
     text-align: center;
 }
 
-.service-list__item::before {
+.services-list__item::before {
     content: '';
     display: block;
     width: 72px;
@@ -136,26 +136,26 @@ nav {
     border: 3px solid #fed136;
 }
 
-.service-list__item:nth-child(1)::before {
+.services-list__item:nth-child(1)::before {
     background-image: url(../IMG/urn.png);
 }
 
-.service-list__item:nth-child(2)::before {
+.services-list__item:nth-child(2)::before {
     background-image: url(../IMG/computer.png);
 }
 
-.service-list__item:nth-child(3)::before {
+.services-list__item:nth-child(3)::before {
     background-image: url(../IMG/lock.png);
 }
 
-.services-item_title {
+.service-item_title {
     font-size: 18px;
     line-height: 65px;
     letter-spacing: -0.45px;
     font-weight: 700;
 }
 
-.service-list__item p {
+.services-list__item p {
     font-family: 'Roboto Slab', serif;
     font-size: 14px;
     line-height: 20px;
