@@ -402,11 +402,11 @@ html {
     border-top: 1px solid #e5e5e5;
   }
   
-  .footer-link {
+  .footer__link {
     color: #f38181;
   }
   
-  .footer-link:hover {
+  .footer__link:hover {
     text-decoration: underline;
   }
   
