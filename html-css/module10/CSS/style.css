@@ -406,7 +406,11 @@ html {
     color: #f38181;
   }
   
+<<<<<<< HEAD
   .footer__link :hover{
+=======
+  .footer__link:hover {
+>>>>>>> 6410b2ccdfa1e80cea705f0930b07e8e81287477
     text-decoration: underline;
   }
   
